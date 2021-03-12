@@ -20,3 +20,26 @@ Pace is designed to work with HealthBox, and requires it to function. If you don
 8. Run `main.py` using Python 3, by running the following command: `python3 main.py`
 
 You can now enter information about how many steps you took on a particular date using Pace! Every time you'd like to re-run Pace, simply navigate to the Pace folder and run `main.py`. After the initial set up, you shouldn't need to edit `main.py` again, unless you'd like to make changes to your configuration.
+
+
+## Features
+
+### Quick
+
+After the initial configuration is complete, it's easy to add steps by date in a matter of seconds!
+
+### Easy
+
+Pace uses a simply terminal user interface that doesn't require you have an extensive knowledge of the command line. As long as you understand the basics, you'll have no problem running Pace!
+
+### Completely Open Source
+
+Just like HealthBox itself, Pace is completely open source from top to bottom, ensuring your privacy and security
+
+### Well Documented
+
+The source code of Pace is clearly laid out and well documented, making it easy to modify for other uses.
+
+### Works With HealthBox
+
+Pace works with HealthBox, the easy way to keep all of your health information in one secure, easy to access location!
