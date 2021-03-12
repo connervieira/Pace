@@ -1,7 +1,7 @@
 # Pace
 # V0LT
 # Licensed under the GPLv3
-# Version 0.9
+# Version 0.9.1
 
 
 # ----- Configuration -----
@@ -69,7 +69,7 @@ print("Please enter the date you'd like to submit steps for.")
 
 while True: # Run forever until the user enters a valid day.
     day = int(input("Day: "))
-    if (day <= 1 and day <= 31):
+    if (day >= 1 and day <= 31):
         break
     else:
         clear()
@@ -77,7 +77,7 @@ while True: # Run forever until the user enters a valid day.
 
 while True: # Run forever until the user enters a valid month.
     month = int(input("Month: "))
-    if (month <= 1 and month <= 12):
+    if (month >= 1 and month <= 12):
         break
     else:
         clear()
@@ -85,7 +85,7 @@ while True: # Run forever until the user enters a valid month.
        
 while True: # Run forever until the user enters a valid year
     year = int(input("Year: "))
-    if (year <= 1900):
+    if (year >= 1900):
         break
     else:
         clear()
@@ -99,10 +99,11 @@ timestamp = int(time.mktime(dt.timetuple())) # Convert the date to a Unix timest
 
 
 # Ask the user how many steps they'd like to submit for that date.
-print("Please enter the number of steps you've taken on that date. Please note that this will be added to any steps already recorded for that date.")
+clear()
+print("Please enter the number of steps you've taken on the entered date. Please note that this will be added to any steps already recorded for that date.")
 while True: # Run forever until the user enters a valid day.
     steps = int(input("Steps: "))
-    if (steps <= 0):
+    if (steps >= 0):
         break
     else:
         clear()
