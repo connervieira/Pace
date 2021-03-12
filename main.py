@@ -1,7 +1,7 @@
 # Pace
 # V0LT
 # Licensed under the GPLv3
-# Version 0.9.1
+# Version 0.9.2
 
 
 # ----- Configuration -----
@@ -118,12 +118,12 @@ submission = '{"timestamp": ' + str(timestamp) + ', "data": {"steps_count": ' + 
 
 # Ask the user for their HealthBox instance information.
 if (default_apikey == ""): # Check to see if the user has configured a preset API key in the configuration at the top of this script. If not, ask them to enter their API key.
-    healthbox_apikey = input("Please enter a HealthBox API key for Pace.");
+    healthbox_apikey = input("HealthBox API key: ");
 else: # If the user as configured an API key in the configuration at the top of this script, use that instead of asking them to enter one.
     healthbox_apikey = default_apikey
 
 if (default_server == ""): # Check to see if the user has configured a preset HealthBox server address in the configuration at the top of this script. If not, ask them to enter the host and port for their HealthBox instance.
-    healthbox_server = input("Please enter the server address, including the port, for your HealthBox instance: ")
+    healthbox_server = input("HealthBox instance server and port: ")
 else: # If the user has configured a HealthBox server address in the configuration at the top of this script, use that instead of asking them to enter one.
     healthbox_server = default_server
 
