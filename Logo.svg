@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="Logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-216.11562"
+     inkscape:cy="435.37943"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="3440"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="FootPrint"
+     style="opacity:1"
+     transform="translate(0,3)">
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96499997;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="Toe1"
+       cx="191.37697"
+       cy="11.130497"
+       rx="14.704736"
+       ry="21.313604"
+       transform="rotate(5.5704748)" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96500003;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="Toe2"
+       cx="159.40518"
+       cy="35.437672"
+       rx="9.0045853"
+       ry="13.052517" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96500003;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="Toe3"
+       cx="133.28732"
+       cy="60.494156"
+       rx="8.0958662"
+       ry="11.648134"
+       transform="rotate(-7.2106961)" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96499997;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="Toe4"
+       cx="108.6639"
+       cy="79.774666"
+       rx="7.2697568"
+       ry="10.656802"
+       transform="rotate(-12.2737)" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96500003;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="Toe5"
+       cx="87.364563"
+       cy="89.617348"
+       rx="6.6914806"
+       ry="9.5002508"
+       transform="rotate(-14.654682)" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 115.16598,80.810852 c 9.22953,-5.374153 13.20173,-3.271224 24.30054,-7.82757 11.0988,-4.556347 10.51465,-11.682944 25.8193,-15.888802 15.30466,-4.205858 29.20736,5.374153 33.88053,17.407585 4.67317,12.03343 9.58001,23.8332 -8.06122,51.171285 -17.64124,27.33808 -33.41321,38.20323 -24.53419,74.18668 8.87904,35.98346 15.07101,40.07249 4.90684,65.07399 -10.16416,25.0015 -55.1435,26.63711 -63.78888,0.58414 -8.645384,-26.05295 0.70097,-42.75956 2.45342,-57.94739 1.75244,-15.18782 0.11682,-52.33958 -8.87904,-81.4301 -8.995837,-29.090521 13.9027,-45.329818 13.9027,-45.329818 z"
+       id="BaseOfFoot"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
