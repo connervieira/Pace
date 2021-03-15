@@ -1,7 +1,7 @@
 # Pace
 # V0LT
 # Licensed under the GPLv3
-# Version 0.9.2
+# Version 1.0 
 
 
 # ----- Configuration -----
@@ -112,7 +112,7 @@ while True: # Run forever until the user enters a valid day.
 
 
 # Generate the submission data as plain text JSON data.
-submission = '{"timestamp": ' + str(timestamp) + ', "data": {"steps_count": ' + str(steps) + ', "start_time": ' + str(timestamp) + ', "end_time": ' + str(timestamp) + '}}'
+submission = '{"timestamp": ' + str(timestamp) + ', "data": {"steps_count": ' + str(steps) + ', "start_time": ' + str(timestamp) + ', "end_time": ' + str(timestamp+86399) + '}}'
 
 
 
