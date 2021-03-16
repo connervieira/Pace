@@ -1,4 +1,4 @@
-# PaceChangelog
+# Pace Changelog
 
 ## Version 0.9.2 
 
